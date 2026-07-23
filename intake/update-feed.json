@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "repository": "Balllvin/marauder-notebook-releases",
+  "feed_url": "https://github.com/Balllvin/marauder-notebook-releases/releases/latest/download/appcast.xml",
+  "download_url_prefix": "https://github.com/Balllvin/marauder-notebook-releases/releases/download",
+  "release_metadata_url": "https://github.com/Balllvin/marauder-notebook-releases/releases/latest/download/notebook-release.json",
+  "public_ed_key": "tWzGidYf3K08nkhu45CwWt/uJWERB+MT+UrpYjy4OXU="
+}
