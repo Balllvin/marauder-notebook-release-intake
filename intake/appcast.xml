@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Marauder Notebook</title>
+        <item>
+            <title>1.0.5</title>
+            <pubDate>Sun, 26 Jul 2026 17:02:09 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Balllvin/marauder-notebook-releases/releases/download/notebook-v1.0.5-6/Marauder-Notebook-1.0.5-6-universal.zip" length="13472403" type="application/octet-stream" sparkle:edSignature="IOoZdCuDqozX6ysJs9197xVQ9jK39CM7mAYeqjThYRGPS+X2nM5tpeYBkJsBBTOMwK65pD1WMWzpbJuZ234uBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: OGFLRgNTqsEouyNpzIyLkpArssCVCl9GKXjgnQY/4tfydouYkBg43kMcZuoeiJZf1oZRoS2sY6TSoAZeR/eGDg==
+length: 1101
+-->
