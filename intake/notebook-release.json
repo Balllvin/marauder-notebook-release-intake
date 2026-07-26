@@ -1,0 +1,39 @@
+{
+  "appcast": {
+    "enclosure_url": "https://github.com/Balllvin/marauder-notebook-releases/releases/download/notebook-v1.0.4-5/Marauder-Notebook-1.0.4-5-universal.zip",
+    "name": "appcast.xml",
+    "url": "https://github.com/Balllvin/marauder-notebook-releases/releases/latest/download/appcast.xml"
+  },
+  "architecture": "universal",
+  "asset": {
+    "length": 13472456,
+    "name": "Marauder-Notebook-1.0.4-5-universal.zip",
+    "sha256": "57acc0a39d6dd1b42b4345b760f56409779c521ccf06c7c89db23a2e2e4a1852",
+    "sparkle_ed_signature": "O+c7vFvN/XdpVnqNVYlO/M/EdRUE83Yei/sAG68rgWtU//msznXGBwZANg8+xFNYxa+Wda/9EabPJB/naf8uDA==",
+    "url": "https://github.com/Balllvin/marauder-notebook-releases/releases/download/notebook-v1.0.4-5/Marauder-Notebook-1.0.4-5-universal.zip"
+  },
+  "build_number": "5",
+  "checksum": {
+    "name": "Marauder-Notebook-1.0.4-5-universal.zip.sha256",
+    "url": "https://github.com/Balllvin/marauder-notebook-releases/releases/download/notebook-v1.0.4-5/Marauder-Notebook-1.0.4-5-universal.zip.sha256"
+  },
+  "product": "Marauder Notebook",
+  "provenance": {
+    "algorithm": "ed25519",
+    "sparkle_ed_signature": "typdcqG3pF8PMF3S0Dr/ufz/GAjU2plKpZMckM0GU48z/ch6n4282E3f0C1HEqvTiyVjJ80LTYs7tTK5ZpNJAw=="
+  },
+  "schema": 2,
+  "signed_distribution": {
+    "code_signature": "ad-hoc",
+    "gatekeeper": "manual_approval_required",
+    "notarization": "not_available",
+    "ticket": "not_stapled"
+  },
+  "source": {
+    "commit": "f70986ad4a1e7fcdae846d049962f76d6447dbfb",
+    "previous_commit": "7bb42c3834a25aa814de3c3fc1f6699e6d5db236",
+    "repository": "Balllvin/marauder"
+  },
+  "tag": "notebook-v1.0.4-5",
+  "version": "1.0.4"
+}
