@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Marauder Notebook</title>
+        <item>
+            <title>1.0.7</title>
+            <pubDate>Mon, 19 Oct 2026 16:47:28 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Updates no longer sign you out.
+- This update changes how the app is signed, so macOS may ask you once to allow Marauder Notebook again. Later updates won't ask.
+- When you're signed out, the opening screen offers three choices: Sign in, Create an account, or Use without an account.
+- When you sign out, Notebook tells you and keeps your notebooks on this Mac. You can sign in again, switch accounts, or keep working.
+- From the next update on, What's New shows that update's notes the first time you open Notebook after updating.
+]]></description>
+            <enclosure url="https://github.com/Balllvin/marauder-notebook-releases/releases/download/notebook-v1.0.7-8/Marauder-Notebook-1.0.7-8-universal.zip" length="66531119" type="application/octet-stream" sparkle:edSignature="8oX6IoPymxuYSnUUKscP6uCuUXoAgSgJyC4OUiwo+riHI04gvDsKzkBYB/fOHcP2sWLYmiDIF2dD1Dd//NPuBw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: CpnFniLBQii1YZZt9p4WOK+YOkS2hqQxgTHOA3KY8e4yGLRlqAbdX+8U966/wQJBiaUGGoMu8J8wSLEOPp1rCQ==
+length: 1713
+-->
